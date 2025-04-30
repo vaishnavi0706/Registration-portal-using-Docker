@@ -2,7 +2,7 @@
 // Database configuration
 $servername = "mysql";       // Change if using a remote server
 $username = "root";              // Replace with your MySQL username
-$password = "sumit2606";                  // Replace with your MySQL password
+$password = "pass123";                  // Replace with your MySQL password
 $dbname = "SurveyDB";            // The name of the database
 
 // Create a connection
